@@ -1,0 +1,35 @@
+{
+    "beam_diameter": "0.3",
+    "cleanup_duration": 15.0,
+    "commit": "a0270bb459b3b836fcd5df7dd5689b63dafe9731",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 1.8,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "784-hole",
+    "load_name": "C0430",
+    "pattern": "dragonflypeakpattern_br1-221-small_hole.lp",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 777,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "snapshots": [],
+    "timestamp": "2024-11-13T07:05:04.898473",
+    "tray": "784-hole",
+    "videos": [],
+    "weight": 0
+}
